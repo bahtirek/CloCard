@@ -1,0 +1,93 @@
+[02-09-2016 19:17:14] -  in :
+[02-09-2016 19:17:14] -  in :
+[02-09-2016 19:20:45] - include(main1.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:33
+[02-09-2016 19:20:45] - include(): Failed opening 'main1.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:33
+[02-09-2016 19:23:15] - include(nav1.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:43
+[02-09-2016 19:23:15] - include(): Failed opening 'nav1.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:43
+[02-09-2016 19:24:03] - include(nav1.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:43
+[02-09-2016 19:24:03] - include(): Failed opening 'nav1.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:43
+[02-09-2016 19:31:40] - include(top.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:20
+[02-09-2016 19:31:40] - include(): Failed opening 'top.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:20
+[02-09-2016 19:31:40] - include(main.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:33
+[02-09-2016 19:31:40] - include(): Failed opening 'main.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:33
+[02-09-2016 19:31:40] - include(nav.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:43
+[02-09-2016 19:31:40] - include(): Failed opening 'nav.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:43
+[02-09-2016 19:31:40] - include(footer.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:53
+[02-09-2016 19:31:40] - include(): Failed opening 'footer.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:53
+[02-09-2016 19:32:04] - include(C:\OpenServer\domains\localhost\CloCard\main.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:33
+[02-09-2016 19:32:04] - include(C:\OpenServer\domains\localhost\CloCard\main.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:33
+[02-09-2016 19:32:04] - include(): Failed opening 'main.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:33
+[02-09-2016 19:32:04] - include(nav.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:43
+[02-09-2016 19:32:04] - include(): Failed opening 'nav.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:43
+[02-09-2016 19:32:04] - include(footer.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:53
+[02-09-2016 19:32:04] - include(): Failed opening 'footer.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:53
+[02-10-2016 08:22:06] - include(login_singup.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:36
+[02-10-2016 08:22:06] - include(): Failed opening 'login_singup.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:36
+[02-10-2016 08:24:02] - Undefined variable: nameplaceholder in C:\OpenServer\domains\localhost\CloCard\login_signup.inc.php:19
+[02-10-2016 08:24:02] - Undefined variable: emailplaceholder in C:\OpenServer\domains\localhost\CloCard\login_signup.inc.php:22
+[02-10-2016 08:24:48] - Undefined variable: nameplaceholder in C:\OpenServer\domains\localhost\CloCard\login_signup.inc.php:19
+[02-10-2016 08:24:48] - Undefined variable: emailplaceholder in C:\OpenServer\domains\localhost\CloCard\login_signup.inc.php:22
+[02-10-2016 08:33:15] - Undefined variable: nameplaceholder in C:\OpenServer\domains\localhost\CloCard\login_signup.inc.php:21
+[02-10-2016 08:33:15] - Undefined variable: emailplaceholder in C:\OpenServer\domains\localhost\CloCard\login_signup.inc.php:24
+[02-10-2016 08:35:07] - Undefined variable: nameplaceholder in C:\OpenServer\domains\localhost\CloCard\login_signup.inc.php:39
+[02-10-2016 08:35:07] - Undefined variable: emailplaceholder in C:\OpenServer\domains\localhost\CloCard\login_signup.inc.php:42
+[02-10-2016 18:17:40] - include(inc/headers.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:17:40] - include(): Failed opening 'inc/headers.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:17:40] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:17:40] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:17:40] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:17:40] - include(inc/main.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:6
+[02-10-2016 18:17:40] - include(): Failed opening 'inc/main.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:6
+[02-10-2016 18:18:23] - include(home/headers.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:18:23] - include(): Failed opening 'home/headers.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:18:23] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:18:23] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:18:23] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:18:23] - include(inc/main.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:6
+[02-10-2016 18:18:23] - include(): Failed opening 'inc/main.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:6
+[02-10-2016 18:19:35] - include(home/headers.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:19:35] - include(): Failed opening 'home/headers.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:19:35] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:19:35] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:19:35] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:19:35] - include(inc/main.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:6
+[02-10-2016 18:19:35] - include(): Failed opening 'inc/main.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:6
+[02-10-2016 18:21:25] - include(home\headers.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:21:25] - include(): Failed opening 'home\headers.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:21:25] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:21:25] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:21:25] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:21:25] - include(inc/main.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:6
+[02-10-2016 18:21:25] - include(): Failed opening 'inc/main.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:6
+[02-10-2016 18:24:07] - include(home\headers.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:24:07] - include(): Failed opening 'home\headers.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:24:07] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:24:07] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:24:07] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:24:47] - include(home/headers.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:24:47] - include(): Failed opening 'home/headers.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:24:47] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:24:47] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:24:47] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:24:50] - include(home/headers.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:24:51] - include(): Failed opening 'home/headers.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:24:51] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:24:51] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:24:51] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:26:15] - include(home/headers.inc.php): failed to open stream: No such file or directory in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:26:15] - include(): Failed opening 'home/headers.inc.php' for inclusion (include_path='.;c:/openserver/modules/php/PHP-5.5;c:/openserver/modules/php/PHP-5.5/PEAR/pear') in C:\OpenServer\domains\localhost\CloCard\index.php:6
+[02-10-2016 18:26:15] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:26:15] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:26:15] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:27:46] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:27:46] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:27:46] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:27:51] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:27:51] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:27:51] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:27:53] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:27:53] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:27:53] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5
+[02-10-2016 18:27:57] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:3
+[02-10-2016 18:27:57] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:4
+[02-10-2016 18:27:57] - Undefined variable: id in C:\OpenServer\domains\localhost\CloCard\home\routing.inc.php:5

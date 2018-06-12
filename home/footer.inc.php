@@ -1,0 +1,1 @@
+&copy; CloCard, 2015 &ndash; 2016
